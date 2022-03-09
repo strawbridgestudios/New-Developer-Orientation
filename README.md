@@ -21,5 +21,5 @@
 - Github
 - Teams
 
-## Github basics
-- [Start a new git repository](https://kbroman.org/github_tutorial/pages/init.html)
+## Github
+- [Github basics](https://github.com/strawbridgestudios/github-basics)
